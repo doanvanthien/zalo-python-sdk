@@ -8,8 +8,6 @@ Landing page: <a href="https://developers.zalo.me/">https://developers.zalo.me/<
 <strong>Community:</strong> If you are having trouble using some feature, the best way to get help is the <a href="https://developers.zalo.me/community/">Zalo Community</a><br>
 <strong>Support:</strong> We are also available to answer short questions on Zalo at <a href="https://zalo.me/zalo4developers">Official Account Zalo For Developers</a><br>
 
-[![N|Solid](https://developers.zalo.me/web/static/prodution/images/logo.png)](https://nodesource.com/products/nsolid)
-
 ## Installation
 You can easily install this package by using pip
 ```
